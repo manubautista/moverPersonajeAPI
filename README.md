@@ -1,6 +1,8 @@
 # moverPersonajeAPI
 <div> API con nociones BÁSICAS de JavaScript, HTML y CSS:
   <li> Utilizar teclas de dirección o AWSD para mover al personaje. </li>
+  <li> Utilizar teclas de dirección hará que la venta haga scroll a medida que el pesonaje avanza por la misma. <br>
+    Se repite el fondo constantemente y da la impresion de que el personaje avanza por el "nivel" </li>
  </div>
  <div>
   <h2> Explicación </h2>
