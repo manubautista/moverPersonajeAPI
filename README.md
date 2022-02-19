@@ -9,3 +9,5 @@
     Con JavaScript, mediante eventListeners del tipo "keydown" se puede detectar cuando el usuario presiona las teclas de movimiento. <br>
     Mediante el método .style se modifica el valor de los estilos CSS que determinan la posicion del personaje, para ejecutar el movimiento del mismo a medida que el usuario       presiona las teclas. </p>
 </div>
+
+![preview](https://user-images.githubusercontent.com/91494874/154810845-f7774bdd-034f-4346-8558-56329b4eb24a.png)
