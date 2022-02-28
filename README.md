@@ -12,4 +12,5 @@
     Mediante el método .style se modifica el valor de los estilos CSS que determinan la posicion del personaje, para ejecutar el movimiento del mismo a medida que el usuario       presiona las teclas. </p>
 </div>
 
-![preview](https://user-images.githubusercontent.com/91494874/154810892-8f580531-b9bb-46a3-a5d5-b1a22a1fd387.png)
+
+![main](https://user-images.githubusercontent.com/91494874/155935887-d99d200b-0797-40da-b526-62e8fd5356a9.jpg)
